@@ -1,0 +1,12 @@
+body{background-image: url(dark.jpg);}
+header{ transition:all ;background-image:  url(rose.jpg);   text-align: center;font-style: italic;background-color: rgb(154, 32, 77); border: 20px solid black;font-size: 30px;border-radius: 50pt;}
+header:hover{background-image:url(w.jpg);}
+fieldset{border-color: plum;}
+.a {background-color:plum;font-size: 20px;padding-left: 20px;padding-bottom: 20px}
+figure img{padding-left: 10px ;width: 200px;height: 200px;}
+#c{float: right;width: 270px;background-color :plum;padding-left: 20px;}
+#b{float: right;width: 250px;background-color :plum;padding-right: 40px;margin-left: 20px;}
+#p{border-radius: 20px;border-style: groove;background-color:plum;margin-right: 960px;padding-left: 10px;}
+figcaption{padding-left: 40px;border-style: double;background-color:ghostwhite;margin-left: 40px;font-size:15px;font-style: italic}
+h1{color:black;transition: 1s ease-in-out}
+h1:hover{color:lightpink;}
